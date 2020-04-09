@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ca7cf24-64d1-4647-8cbf-deaeca22ed9d" name="Default Changelist" comment="" />
+    <list default="true" id="2ca7cf24-64d1-4647-8cbf-deaeca22ed9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ArraySumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ArraySumTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aIguy1Y1yNYXXZIvqFAFOSRTKB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +36,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -39,7 +49,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArraySumTest.sumRecursive">
+  <component name="RunManager" selected="Application.ArraySum">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySum" />
+      <module name="arraysum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="arraysum" />
       <option name="PACKAGE_NAME" value="" />
@@ -61,8 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArraySumTest.sumRecursive" />
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="JUnit.ArraySumTest" />
+        <item itemvalue="JUnit.ArraySumTest.sumRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -73,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586428748765</updated>
-      <workItem from="1586428755646" duration="1234000" />
+      <workItem from="1586428755646" duration="1856000" />
     </task>
     <servers />
   </component>
@@ -81,22 +99,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586430004754">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586430842063">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004754" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586430004752">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430842063" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586430842062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004752" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586430004750">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430842062" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586430842061">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004750" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586430004753">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430842061" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586430842062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004753" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430842062" />
     <state x="424" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586429230410">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
