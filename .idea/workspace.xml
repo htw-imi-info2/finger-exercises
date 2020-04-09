@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ca7cf24-64d1-4647-8cbf-deaeca22ed9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIguy1Y1yNYXXZIvqFAFOSRTKB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArraySumTest.sumRecursive">
+    <configuration name="ArraySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arraysum" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArraySumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySumTest.sumRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arraysum" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArraySumTest" />
+      <option name="METHOD_NAME" value="sumRecursive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArraySumTest.sumRecursive" />
+        <item itemvalue="JUnit.ArraySumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca7cf24-64d1-4647-8cbf-deaeca22ed9d" name="Default Changelist" comment="" />
+      <created>1586428748765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586428748765</updated>
+      <workItem from="1586428755646" duration="1234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586430004754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004754" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586430004752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004752" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586430004750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004750" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586430004753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586430004753" />
+    <state x="424" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586429230410">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586429230410" />
+    <state x="499" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586429007237">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586429007237" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586429109122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.-456.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586429109122" />
+  </component>
+</project>
