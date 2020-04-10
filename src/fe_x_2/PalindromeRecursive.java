@@ -15,10 +15,7 @@ public class PalindromeRecursive implements Palindrome {
      */
     @Override
     public boolean isPalindrome(String candidate) {
-        if (candidate.length() < 2) return true;
-        int lastIndex = candidate.length() - 1;
-        if (candidate.charAt(0) != candidate.charAt(lastIndex)) return false;
-        return isPalindrome(candidate.substring(1, lastIndex));
+        return false;
     }
 }
 
