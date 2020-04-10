@@ -3,6 +3,11 @@ import java.util.Arrays;
 public class ArraySum {
     private static final boolean VERBOSE = false;
 
+    /**
+     * example of testing with a main method (instead of junit)
+     * works only for small examples; because list of output that needs to be checked quickly becomes too long!
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("die summe von {93,2,46,2,5,7} ist (155 wäre richtig) " + new ArraySum().sumRecursive(new int[]{93, 2, 46, 2, 5, 7}));
         System.out.println("die summe von {93,2,46,2,5,7} ist (155 wäre richtig) " + new ArraySum().sumIterative(new int[]{93, 2, 46, 2, 5, 7}));
