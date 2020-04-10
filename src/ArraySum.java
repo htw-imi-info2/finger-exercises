@@ -20,7 +20,7 @@ public class ArraySum {
     /**
      * The solution I showed in class was more complicated than necessary.
      * I chose it because Java doesn't have an efficient method to get the tail from an Array,
-     * that is, the or a new Array will all but the first elements.
+     * that is, the Array with all but the first element.
      * If there where an Arrays.tail, then it would be simpler:
      * @param a
      * @return sum of elements in a
