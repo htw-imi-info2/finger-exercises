@@ -14,6 +14,10 @@ class ArraySumTest {
     void sumRecursive() {
         assertEquals(27,sut.sumRecursive(new int[]{5,3,2,6,7,4}));
     }
+    @org.junit.jupiter.api.Test
+    void sumRecursiveImproved() {
+        assertEquals(27,sut.sumRecursiveImproved(new int[]{5,3,2,6,7,4}));
+    }
     @Test
     void sumEmptyIt(){
         assertEquals(0,sut.sumIterative(new int[]{}));
@@ -21,5 +25,9 @@ class ArraySumTest {
     @Test
     void sumEmptyRec(){
         assertEquals(0,sut.sumRecursive(new int[]{}));
+    }
+    @Test
+    void sumEmptyRecBetterImproved(){
+        assertEquals(0,sut.sumRecursiveImproved(new int[]{}));
     }
 }

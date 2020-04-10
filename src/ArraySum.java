@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ArraySum {
     private static final boolean VERBOSE = false;
 
@@ -15,6 +17,27 @@ public class ArraySum {
         }
         return sum;
     }
+    /**
+     * The solution I showed in class was more complicated than necessary.
+     * I chose it because Java doesn't have an efficient method to get the tail from an Array,
+     * that is, the or a new Array will all but the first elements.
+     * If there where an Arrays.tail, then it would be simpler:
+     * @param a
+     * @return sum of elements in a
+     */
+    public int sumRecursiveImproved(int[] a) {
+        if (a.length == 0) return 0;
+        return a[0] + sumRecursiveImproved(tail(a));
+    }
+
+    /*
+     * This implements tail for an array in a simple way, by copying
+     * all elements but the first one into a new array.
+     * This works, but is quite expensive. We will look into this later!
+     */
+    private int[] tail(int[] a) {
+        return Arrays.copyOfRange(a,1,a.length);
+    }
 
     public int sumRecursive(int[] a) {
         // return erstes element + summe des restes des arrays
@@ -29,4 +52,6 @@ public class ArraySum {
         if (VERBOSE) System.out.println("i:" + i + " recursiveCallResult: " + recursiveCallResult);
         return a[i] + recursiveCallResult;
     }
+
+
 }
