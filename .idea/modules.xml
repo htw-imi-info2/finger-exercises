@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/arraysum.iml" filepath="$PROJECT_DIR$/arraysum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finger-exercises.iml" filepath="$PROJECT_DIR$/finger-exercises.iml" />
     </modules>
   </component>
 </project>
